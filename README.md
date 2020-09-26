@@ -29,10 +29,10 @@ Ex:
 	- etc...
 ```
 ## Contribuidores
-Deixa aqui uma assinatura sua para a gente lembrar que você fez parte disso. (Pode ser o nome/apelido + perfil do GitHub; ou se preferir, alguma rede social, canal do youtube ou twitch, sei lá... só não vale o tinder kk)
+Deixa aqui uma assinatura sua para a gente lembrar que você fez parte disso. (Pode ser o nome/apelido + perfil do GitHub; ou se preferir, alguma rede social, canal do youtube ou twitch, sei lá... só não vale o tinder kk).
 
 Exemplo1 (GitHub):
-	```:octo-cat: [Super Xandão](https://github.com/xandao/)```
+	```:octocat: [Super Xandão](https://github.com/xandao/)```
 
 Exemplo2 (Instagram):
 	```[Ednaldo Pereira](https://www.instagram.com/godisgood/)```
