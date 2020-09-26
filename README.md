@@ -44,7 +44,7 @@ Exemplo4 (URL):
 	```[:trollface:clica aqui!:trollface:](https://www.hackeado.site/android/clonar_cartao.php?)```
 
 
-Zoeira à parte! Enfim, [deixe a sua marca aqui!!!](./Contribuidores) (E não esqueça de fazer aquele pull request maroto, ok?)
+Zoeira à parte! Enfim, [deixe a sua marca aqui!!!](./Contribuidores.md) (E não esqueça de fazer aquele pull request maroto, ok?)
 
 
 ## Licença
