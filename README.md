@@ -3,14 +3,14 @@ Caro(a) colega desenvolvedor(a) e/ou aluno(a) de Computação(ou de áreas afins
 
 ## Como Contribuir :+1:
 - Mantenha o repositório bem organizado. Evite criar novos arquivos quando possível
-- Quando possível prefira editá-los, acrescenteando suas funções, classes.
+- Quando possível prefira editá-los, acrescentando suas funções, classes.
 
 ## Por que eu devo contribuir?
 - [X] Se ajude e ajude seus colegas programadores nessa árdua tarefa;
 - [X] Colaborar positivamente em **repositórios Git contribuem muito para a sua carreira acadêmica e mais ainda para a profissional**, então não economize *forks* e *pull requests* na sua vida; 
-- [X] Pôr em prática as boas práticas de programação e adquirir novas técnicas, absorvendo conhecimento de outras pessoas, inclusive mais experientes que você;
+- [X] Colocar em prática as boas práticas de programação e adquirir novas técnicas, absorvendo conhecimento inclusive de gente mais experiente que você;
 - [X] Por mais inovador ou por mais simplório que seja o seu código, isso não importa: o mérito é o mesmo, **a sua contribuição tá valendo muito!**;
-- [X] Você vai **otimizar o seu tempo**, tendo um tipo de **cheat sheet** de diversos algoritmos, deixando **mais fácil** de achar, entender e reutilizar código opensource nos **seus projetos**, do que uma extensa pesquisa na internet; 
+- [X] Você vai **otimizar o seu tempo**, tendo um tipo de **cheat sheet** de diversos algoritmos, deixando **mais fácil** de achar, entender e reutilizar código *opensource* nos **seus projetos**, ao invés de uma extensa e chata pesquisa na internet; 
 
 Achou pouco? Pois saiba que o [*Hacktoberfest*](https://hacktoberfest.digitalocean.com/) tá vindo aí! Vai me dizer que não quer [ganhar a camisa desse ano](https://hacktoberfest.digitalocean.com/)?? Basta você contribuir em aguns repositórios. Já começa outubro com o pé direito (mesmo se você for canhoto)!
 
@@ -50,7 +50,7 @@ Zoeira à parte! Enfim, [deixe a sua marca aqui!!!](./Contribuidores.md) (E não
 ## Licença
 Por padrão, todos os códigos aqui reunidos estarão sob a licença [GNU General Public License v3.0(GPL)](/LICENSE).
 <p align="center">
-<img src="./gpl-v3-logo.svg" alt="./gpl-v3-logo.svg" widht="100" height="200" max-width="100" max-height ="200"/>
+<img src="./gpl-v3-logo.svg" alt="./gpl-v3-logo.svg" widht="150" height="300"/>
 
 Mas se preferir, você pode especificar a licença que quiser (pode ser qualquer uma mesmo, desde que ela permita a sua reutilização para fins acadêmicos). Não coloque copyright (c) ou trademark (tm).
 
@@ -104,6 +104,6 @@ Exemplo de referenciação da licença em um código em linguagem C:
 Repare que no exemplo acima, Rodrigo, Larissa e Raimundo contribuiram no mesmo arquivo. Note também que Rodrigo implementou sob Apache 2.0, Larissa sob a licença do MIT, e Raimundo sob GLPv3.0, já que ele não especificou.
 
 ## Problemas de versionamento??
-- Para evitar muitos  versionamentos com diferentes implementações em diferentes branchs de diferentes repositórios gits que fujam ao alcance de todos - Confuso, não?-, é recomendável fazer os forks, e principalmente os merges (via pull requests) a partir de um mesmo repositório. 
+- Para evitar muitos versionamentos com diferentes implementações em diferentes branchs de diferentes repositórios gits que fujam ao alcance de todos - Confuso, não? Também achei!- ou seja, para evitar divergências e democratizar a informação aqui obtida, é altamente recomendável fazer os forks, e principalmente os merges (via pull requests) de forma centralizada, a partir de uma mesma fonte - um mesmo repositório. 
 
 **Ressaltando a importância da organização e valorizando o bom senso dos contribuidores**, sugiro que os *forks*, *pull requests*, *known issues* e outros sejam feitos nesse seguinte repositório: https://github.com/Jakiminski/AlgoritmosGen-ricos. Assim, **todos teremos acesso facilitado aos algoritmos e mais facilmente difundido, seja pela comunidade acadêmica ou por outros devs.**
