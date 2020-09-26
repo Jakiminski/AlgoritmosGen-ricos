@@ -1,4 +1,4 @@
-# UtilitáriosDiversos
+# AlgoritmosGenericos
 Caro(a)) colega desenvolvedor(a) e/ou aluno(a) de Computação(ou de áreas afins), faça sua contribuição com seus algoritmos e padrões da forma mais genérica e útil possível. Toda linguagem de programação é bem-vinda.
 
 ## Como Contribuir :+1:
@@ -50,7 +50,7 @@ Zoeira à parte! Enfim, [deixe a sua marca aqui!!!](./Contribuidores) (E não es
 ## Licença
 Por padrão, todos os códigos aqui reunidos estarão sob a licença [GNU General Public License v3.0(GPL)](/LICENSE). 
 
-![](./gpl-v3-logo.svg)
+<img src="./gpl-v3-logo.svg" alt="./gpl-v3-logo.svg" max-width="100" max-height ="200"/>
 
 Mas se preferir, você pode especificar a licença que quiser (pode ser qualquer uma mesmo, desde que ela permita a sua reutilização para fins acadêmicos). Não coloque copyright (c) ou trademark (tm).
 
@@ -104,6 +104,6 @@ Exemplo de referenciação da licença em um código em linguagem C:
 Repare que no exemplo acima, Rodrigo, Larissa e Raimundo contribuiram no mesmo arquivo. Note também que Rodrigo implementou sob Apache 2.0, Larissa sob a licença do MIT, e Raimundo sob GLPv3.0, já que ele não especificou.
 
 ## Problemas de versionamento??
-- Para evitar muitos  versionamentos com diferentes implementações em diferentes branchs de diferentes repositórios gits que fujam ao alcance de todos - Confuso não?-, é recomendável fazer os forks, e principalmente os merges (via pull requests) a partir de um mesmo repositório. 
+- Para evitar muitos  versionamentos com diferentes implementações em diferentes branchs de diferentes repositórios gits que fujam ao alcance de todos - Confuso, não?-, é recomendável fazer os forks, e principalmente os merges (via pull requests) a partir de um mesmo repositório. 
 
 **Ressaltando a importância da organização e valorizando o bom senso dos contribuidores**, sugiro que os *forks*, *pull requests*, *known issues* e outros sejam feitos nesse seguinte repositório: https://github.com/Jakiminski/AlgoritmosGen-ricos. Assim, **todos teremos acesso facilitado aos algoritmos e mais facilmente difundido, seja pela comunidade acadêmica ou por outros devs.**
