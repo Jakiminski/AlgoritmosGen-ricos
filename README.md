@@ -1,5 +1,5 @@
 # AlgoritmosGenericos
-Caro(a)) colega desenvolvedor(a) e/ou aluno(a) de Computação(ou de áreas afins), faça sua contribuição com seus algoritmos e padrões da forma mais genérica e útil possível. Toda linguagem de programação é bem-vinda.
+Caro(a) colega desenvolvedor(a) e/ou aluno(a) de Computação(ou de áreas afins), faça sua contribuição com seus algoritmos e padrões da forma mais genérica e útil possível. Toda linguagem de programação é bem-vinda.
 
 ## Como Contribuir :+1:
 - Mantenha o repositório bem organizado. Evite criar novos arquivos quando possível
