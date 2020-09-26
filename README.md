@@ -32,16 +32,16 @@ Ex:
 Deixa aqui uma assinatura sua para a gente lembrar que você fez parte disso. (Pode ser o nome/apelido + perfil do GitHub; ou se preferir, alguma rede social, canal do youtube ou twitch, sei lá... só não vale o tinder kk).
 
 Exemplo1 (GitHub):
-	```:octocat: [Super Xandão](https://github.com/xandao/)```
-
+	:octocat: [Super Xandão](https://github.com/xandao/)
+	
 Exemplo2 (Instagram):
-	```[Ednaldo Pereira](https://www.instagram.com/godisgood/)```
+	[Ednaldo Pereira](https://www.instagram.com/godisgood/)
 
 Exemplo3 (URL):
-	```[Eu sou timido:flushed:](mailto:meuemail@naoteinteressa.com)```
+	[Eu sou timido:flushed:](mailto:meuemail@naoteinteressa.com)
 
 Exemplo4 (URL):
-	```[:trollface:clica aqui!:trollface:](https://www.hackeado.site/android/clonar_cartao.php?)```
+	[:trollface:clica aqui!:trollface:](https://www.hackeado.site/android/clonar_cartao.php?)
 
 
 Zoeira à parte! Enfim, [deixe a sua marca aqui!!!](./Contribuidores.md) (E não esqueça de fazer aquele pull request maroto, ok?)
