@@ -50,7 +50,7 @@ Zoeira à parte! Enfim, [deixe a sua marca aqui!!!](./Contribuidores) (E não es
 ## Licença
 Por padrão, todos os códigos aqui reunidos estarão sob a licença [GNU General Public License v3.0(GPL)](/LICENSE). 
 
-<img src="./gpl-v3-logo.svg" alt="./gpl-v3-logo.svg" max-width="100" max-height ="200"/>
+<img src="./gpl-v3-logo.svg" alt="./gpl-v3-logo.svg" max-width="50" max-height ="100"/>
 
 Mas se preferir, você pode especificar a licença que quiser (pode ser qualquer uma mesmo, desde que ela permita a sua reutilização para fins acadêmicos). Não coloque copyright (c) ou trademark (tm).
 
